@@ -7,7 +7,7 @@ init:
 
 
 
-up:
+run:
 	docker-compose up
 
 down:
